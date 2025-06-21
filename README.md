@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00FFFF, 0 0 20px #0088ff;">𝗞𝗛𝗔𝗡-𝗠𝗗</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00FFFF, 0 0 20px #0088ff;">Moazzam</h1>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ## DEPLOY NEW VERSION
 
 <p align="center">
-  <a href="https://github.com/JawadTechXD/KHAN-MD">
+  <a href="https://github.com/moazzam Techk/moazzam-">
     <img src="https://img.shields.io/badge/_Deploy_From_New-Repo-ff0000?style=for-the-badge&logo=deploy" alt="Deploy" width="300">
   </a>
 </p>
